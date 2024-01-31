@@ -13,7 +13,7 @@
 #include <LiquidCrystal.h>
 
 // other file in the folder - contains custom character designs
-#include "summative_custom_characters.h"
+#include "custom_characters.h"
 
 // general variables
 int stage = 0;
