@@ -2,7 +2,7 @@
 
 This repository contains all the code for my TEJ2O (Computer Technology) Summative Project, completed in June 2022.
 
-There are multiple minigames displayed on the LCD using an Arduino Uno Rev3.
+There are multiple minigames displayed on the LCD using an Arduino Uno Rev3.  
 Functional Block Diagram | Schematic
 
 ## Introduction
