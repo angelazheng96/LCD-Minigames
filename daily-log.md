@@ -100,9 +100,9 @@
 ## Friday, June 17, 2022
 * Fixing the problem from Wednesday - after cards are matched and disappeared, the cursor shouldn’t appear beside them  
    *	My original solution:  
-      *	Put a while (true) loop outside the code that checks which direction the joystick was moved  
-      *	Then have a condition - if the cursor is currently at a spot that isn’t empty, then it breaks  
-      *	This way, if it’s moved to a spot where the card is gone, then it should use the same joystick position data and move again until it encounters a spot that isn’t empty  
+       *	Put a while (true) loop outside the code that checks which direction the joystick was moved  
+       *	Then have a condition - if the cursor is currently at a spot that isn’t empty, then it breaks  
+       *	This way, if it’s moved to a spot where the card is gone, then it should use the same joystick position data and move again until it encounters a spot that isn’t empty  
    *	First problem:  
       *	Right after matching a pair of cards, the previous joystick position is 0 and the current joystick position is 0  
       *	But currently, the cursor is on an empty space  
