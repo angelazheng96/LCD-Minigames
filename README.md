@@ -6,9 +6,9 @@ There are multiple minigames displayed on the LCD using an Arduino Uno Rev3.
 
 ## Links
 
-[Daily Log](daily-log.md)
-[Functional Block Diagram](functional-block-diagram.png)
-[Schematic](hardware-schematic.png)
+[Daily Log](daily-log.md)  
+[Functional Block Diagram](functional-block-diagram.png)  
+[Schematic](hardware-schematic.png)  
 
 ## Introduction
 
