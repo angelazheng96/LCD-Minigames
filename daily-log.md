@@ -98,7 +98,7 @@
     *	Wrote code for the restart screen  
 
 ## Friday, June 17, 2022
-*	Fixing the problem from Wednesday - after cards are matched and disappeared, the cursor shouldn’t appear beside them  
+* Fixing the problem from Wednesday - after cards are matched and disappeared, the cursor shouldn’t appear beside them  
    *	My original solution:  
       *	Put a while (true) loop outside the code that checks which direction the joystick was moved  
       *	Then have a condition - if the cursor is currently at a spot that isn’t empty, then it breaks  
