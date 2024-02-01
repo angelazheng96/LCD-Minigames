@@ -165,14 +165,14 @@
 *	Finished the Functional Block Diagram  
 
 ## Thursday, June 23, 2022
-*	Continued trying to get the fan to work  
-   *	Seems to work better when it’s unplugged from the computer (when the USB Type B to Type A cable is completely disconnected)  
-      *	I thought that it would automatically switch to using the 9V battery source, but it seems like it doesn’t  
-   *	Then, the fast speed worked while the slow speed wasn’t (the motor was turning on, but the plastic cover wasn’t spinning)  
-      *	I changed the slow speed to make it slightly faster, and it seems to work better  
-*	Finished the Hardware Design Documentation  
-   *	Added the fan to the Functional Block Diagram  
-   *	Wrote the User’s Manual section for the electric fan  
-   *	Did some formatting to make it more organized  
-*	Demonstration for Mr. Roller  
-*	Submitted the final project on Google Classroom!  
+* Continued trying to get the fan to work  
+      * Seems to work better when it’s unplugged from the computer (when the USB Type B to Type A cable is completely disconnected)  
+            * I thought that it would automatically switch to using the 9V battery source, but it seems like it doesn’t  
+      * Then, the fast speed worked while the slow speed wasn’t (the motor was turning on, but the plastic cover wasn’t spinning)  
+      * I changed the slow speed to make it slightly faster, and it seems to work better  
+ *	Finished the Hardware Design Documentation  
+      * Added the fan to the Functional Block Diagram  
+      * Wrote the User’s Manual section for the electric fan  
+      * Did some formatting to make it more organized  
+* Demonstration for Mr. Roller  
+* Submitted the final project on Google Classroom!  
