@@ -2,7 +2,7 @@
 
 This repository contains all the code for my TEJ2O (Computer Technology) Summative Project, completed in June 2022.
 
-There are multiple minigames displayed on the LCD using an Arduino Uno Rev3.  
+With an Arduino Uno Rev3 and attached LCD, joystick, and DC fan, the user can choose between Rock Paper Scissors, Match the Pairs, Guess the Number, or electric fan modes. The code is written through the Arduino IDE.  
 
 ## Links
 
