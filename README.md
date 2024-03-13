@@ -14,8 +14,6 @@ With an Arduino Uno Rev3 and attached LCD, joystick, and DC fan, the user can ch
 
 Who doesn’t like some simple video games to play? With these LCD Minigames, you can choose between a wide variety of games to play!
 
-I came up with this idea pretty quickly, as I knew that the LCD would allow me to come up with a few different minigames. I also thought that it would be a fun, interactive setting for the player, while incorporating a few other hardware aspects. I decided to make a project from scratch rather than modify an existing one, since I didn’t think I’d be able to make that many contributions to an existing project.
-
 Here are the minigames you can choose from!
 
 ### 1. Rock Paper Scissors
